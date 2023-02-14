@@ -2,7 +2,7 @@
 // Bascially the program is designed for the analysing the point load applied on the beams.
 The program results in giving output as bending moment and shear force diagram.
 
-**EXAMPLE PROBLEM**
+**EXAMPLE PROBLEM**<br>
 **INPUT
 Length of the beam = 500
 length unit = m
