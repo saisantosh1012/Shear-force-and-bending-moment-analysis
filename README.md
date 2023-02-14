@@ -3,7 +3,12 @@
 The program results in giving output as bending moment and shear force diagram.
 
 **EXAMPLE PROBLEM**<br>
+<br>
+
+<br>
 **INPUT
+<br>
+<br>
 Length of the beam = 500
 length unit = m
 Distance of Point load from left end = 200**
